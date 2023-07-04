@@ -5,7 +5,7 @@ function RootLayout() {
 
     return (
         <>
-            {console.log("")}
+            {console.log("Hello")}
             <Outlet />
         </>
     );
