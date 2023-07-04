@@ -1,10 +1,10 @@
-import { Typography } from '@mui/material';
 import './App.css';
+import Router from './router/Router';
 
 function App() {
   return (
     <>
-      <Typography>CMS</Typography>
+      <Router />
     </>
   );
 }
